@@ -38,7 +38,7 @@
 - (void)setUp
 {
     [super setUp];
-    TWTRWebViewControllerShouldLoadCompletion shouldLoadCompletion = ^BOOL(UIViewController *controller, NSURLRequest *urlRequest, UIWebViewNavigationType navType) {
+    TWTRWebViewControllerShouldLoadCompletion shouldLoadCompletion = ^BOOL(UIViewController *controller, NSURLRequest *urlRequest, WKNavigationType navType) {
         return YES;
     };
     self.webVC = [[TWTRWebViewController alloc] init];
