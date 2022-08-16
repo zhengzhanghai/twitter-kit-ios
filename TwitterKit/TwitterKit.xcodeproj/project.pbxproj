@@ -500,6 +500,7 @@
 		AAF0C9F220119C2C0057F438 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF0C9F020119BED0057F438 /* MapKit.framework */; };
 		AD2D13D928AB3C3F00A44528 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD2D13D828AB3C3F00A44528 /* WebKit.framework */; };
 		AD2D13DA28AB3CE700A44528 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD2D13D828AB3C3F00A44528 /* WebKit.framework */; };
+		AD2D13DB28AB427A00A44528 /* TWTRSELocalizedResources.h in Headers */ = {isa = PBXBuildFile; fileRef = AAF0C93C2011991B0057F438 /* TWTRSELocalizedResources.h */; };
 		BF318EB21ADF320A0082353A /* TWTRDateFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D0AE5A71AC7359D00884B45 /* TWTRDateFormatter.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		BF318F031AE03B400082353A /* TWTRComposer.h in Headers */ = {isa = PBXBuildFile; fileRef = F5154B8119D4E6130054DECF /* TWTRComposer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BF318F041AE03B4E0082353A /* TWTRTweetView.h in Headers */ = {isa = PBXBuildFile; fileRef = 376CFC20194A7F7F00E982FB /* TWTRTweetView.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -2858,6 +2859,7 @@
 				37579D8E1D4FBFAA0017DBC1 /* TWTRRuntime.h in Headers */,
 				BFE8398B1ADF285A0035CBA1 /* TWTRUserTimelineDataSource.h in Headers */,
 				BFE8398A1ADF284F0035CBA1 /* TWTRJSONSerialization.h in Headers */,
+				AD2D13DB28AB427A00A44528 /* TWTRSELocalizedResources.h in Headers */,
 				BF318F091AE03BE50082353A /* TWTRTimelineViewController.h in Headers */,
 				3D6B3F191C91F9CC0087B8ED /* TWTRMoPubAdConfiguration_Private.h in Headers */,
 				BF318F031AE03B400082353A /* TWTRComposer.h in Headers */,
